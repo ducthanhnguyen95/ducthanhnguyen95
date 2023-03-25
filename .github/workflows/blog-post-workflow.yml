@@ -20,4 +20,4 @@ jobs:
           BLOG_URL: 'https://ducthanhnguyen95.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
-          GITHUB_TOKEN: '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'
+          GITHUB_TOKEN: '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.GIST_TOKEN'
