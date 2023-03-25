@@ -33,6 +33,16 @@
 [<img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />][spring]
 [<img align="left" alt="OpenAPI" width="30px" src="https://avatars3.githubusercontent.com/u/16343502?v=3&s=200" style="padding-right:10px;" />][openapi]
 
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [militarybank]: https://www.mbbank.com.vn/
 [java]: https://www.java.com/en/
 [javascript]: https://www.javascript.com/
