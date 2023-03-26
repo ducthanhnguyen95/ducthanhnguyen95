@@ -41,6 +41,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [Khám phá Spring Core: Nền tảng của Spring](https://ducthanhnguyen95.hashnode.dev//kham-pha-spring-core-nen-tang-cua-spring)
+- [Tổng quan về hệ sinh thái Spring (The Spring ecosystem)](https://ducthanhnguyen95.hashnode.dev//tong-quan-ve-he-sinh-thai-spring-the-spring-ecosystem)
+- [Giới thiệu về framwork và Spring framework](https://ducthanhnguyen95.hashnode.dev//gioi-thieu-ve-framwork-va-spring-framework)
+- [Scrum values](https://ducthanhnguyen95.hashnode.dev//scrum-values)
+- [Agile có thực sự nhanh và rẻ hơn so với mô hình phát triển phần mềm truyền thống?](https://ducthanhnguyen95.hashnode.dev//agile-co-thuc-su-nhanh-va-re-hon-so-voi-mo-hinh-phat-trien-phan-mem-truyen-thong)
+- [Agile có phải là tốt nhất ?](https://ducthanhnguyen95.hashnode.dev//agile-co-phai-la-tot-nhat)
+- [5 cách giải quyết vấn đề](https://ducthanhnguyen95.hashnode.dev//5-cach-giai-quyet-van-de)
 <!-- HASHNODE_BLOG:END -->
 
 [militarybank]: https://www.mbbank.com.vn/
