@@ -1,4 +1,9 @@
 # Hi there, I'm Thanh - Nguyen Duc ! 👋 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][facebook]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)][hashnode]
+
 
 ## I'm a software developer with growth mindset!!
 
@@ -55,9 +60,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ducthanhnguyen95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ducthanhnguyen95&show_icons=true&hide_border=true" />
+  <img align="left" alt="ducthanhnguyen95's GitHub Stats" src="https://github-readme-stats-ducthanhnguyen95.vercel.app/api?username=ducthanhnguyen95&show_icons=true&hide_border=true" />
 
 </details>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/facebook/simpleicons.svg" />
 
 [militarybank]: https://www.mbbank.com.vn/
 [java]: https://www.java.com/en/
@@ -76,3 +83,5 @@
 [openapi]: https://www.openapis.org/
 [facebook]: https://www.facebook.com/thanhnd071095/
 [linkedin]: https://www.linkedin.com/in/ducthanhnguyen95
+[instagram]: https://www.instagram.com/thanhnd071095/
+[hashnode]: https://ducthanhnguyen95.hashnode.dev/
