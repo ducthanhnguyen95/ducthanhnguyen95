@@ -57,9 +57,16 @@
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ducthanhnguyen95's GitHub Stats" src="https://github-readme-stats-ducthanhnguyen95.vercel.app/api?username=ducthanhnguyen95&show_icons=true&hide_border=true" />
