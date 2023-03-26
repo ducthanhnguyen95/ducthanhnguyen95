@@ -61,6 +61,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/ducthanhnguyen95/ducthanhnguyen95/pull/1) in [ducthanhnguyen95/ducthanhnguyen95](https://github.com/ducthanhnguyen95/ducthanhnguyen95)
+2. 💪 Opened PR [#1](https://github.com/ducthanhnguyen95/ducthanhnguyen95/pull/1) in [ducthanhnguyen95/ducthanhnguyen95](https://github.com/ducthanhnguyen95/ducthanhnguyen95)
 <!--END_SECTION:activity-->
 
 </details>
