@@ -64,8 +64,6 @@
 
 </details>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/facebook/simpleicons.svg" />
-
 [militarybank]: https://www.mbbank.com.vn/
 [java]: https://www.java.com/en/
 [javascript]: https://www.javascript.com/
