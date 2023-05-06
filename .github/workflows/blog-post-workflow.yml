@@ -18,6 +18,6 @@ jobs:
         with:
           USERNAME: 'Tomorrowland' # Hashnode Username
           BLOG_URL: 'https://ducthanhnguyen95.hashnode.dev/' # Blog URL
-          COUNT: 10 # MAX Visisble
+          COUNT: 5 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
