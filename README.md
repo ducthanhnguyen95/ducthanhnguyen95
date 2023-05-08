@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [Aspect-oriented programming (AOP)](https://ducthanhnguyen95.hashnode.dev//aspect-oriented-programming-aop)
 - [Khi nào không  nên sử dụng framework?](https://ducthanhnguyen95.hashnode.dev//khi-nao-khong-nen-su-dung-framework)
 - [Khám phá Spring Core: Nền tảng của Spring](https://ducthanhnguyen95.hashnode.dev//kham-pha-spring-core-nen-tang-cua-spring)
 - [Tổng quan về hệ sinh thái Spring (The Spring ecosystem)](https://ducthanhnguyen95.hashnode.dev//tong-quan-ve-he-sinh-thai-spring-the-spring-ecosystem)
 - [Giới thiệu về framwork và Spring framework](https://ducthanhnguyen95.hashnode.dev//gioi-thieu-ve-framwork-va-spring-framework)
-- [Scrum values](https://ducthanhnguyen95.hashnode.dev//scrum-values)
 <!-- HASHNODE_BLOG:END -->
 
 ---
