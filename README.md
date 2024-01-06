@@ -46,7 +46,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
-- [4 tính chất trong lập trình hướng đối tượng](https://ducthanhnguyen95.hashnode.dev//4-tinh-chat-trong-lap-trinh-huong-doi-tuong)
+- [Tứ trụ của OOP](https://ducthanhnguyen95.hashnode.dev//tu-tru-cua-oop)
 - [Top 7 cách tăng tốc API](https://ducthanhnguyen95.hashnode.dev//top-7-cach-tang-toc-api)
 - [Sử dụng Spring trong việc phát triển ứng dụng backend](https://ducthanhnguyen95.hashnode.dev//su-dung-spring-trong-viec-phat-trien-ung-dung-backend)
 - [Aspect-oriented programming (AOP)](https://ducthanhnguyen95.hashnode.dev//aspect-oriented-programming-aop)
