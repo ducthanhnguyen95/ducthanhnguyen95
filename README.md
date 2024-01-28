@@ -46,11 +46,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
-- [Tứ trụ của OOP](https://ducthanhnguyen95.hashnode.dev//tu-tru-cua-oop)
-- [Top 7 cách tăng tốc API](https://ducthanhnguyen95.hashnode.dev//top-7-cach-tang-toc-api)
-- [Sử dụng Spring trong việc phát triển ứng dụng backend](https://ducthanhnguyen95.hashnode.dev//su-dung-spring-trong-viec-phat-trien-ung-dung-backend)
-- [Aspect-oriented programming (AOP)](https://ducthanhnguyen95.hashnode.dev//aspect-oriented-programming-aop)
-- [Khi nào không  nên sử dụng framework?](https://ducthanhnguyen95.hashnode.dev//khi-nao-khong-nen-su-dung-framework)
+- [Tứ trụ của OOP](https://ducthanhnguyen95.hashnode.dev/tu-tru-cua-oop)
+- [Top 7 cách tăng tốc API](https://ducthanhnguyen95.hashnode.dev/top-7-cach-tang-toc-api)
+- [Sử dụng Spring trong việc phát triển ứng dụng backend](https://ducthanhnguyen95.hashnode.dev/su-dung-spring-trong-viec-phat-trien-ung-dung-backend)
+- [Aspect-oriented programming (AOP)](https://ducthanhnguyen95.hashnode.dev/aspect-oriented-programming-aop)
+- [Khi nào không  nên sử dụng framework?](https://ducthanhnguyen95.hashnode.dev/khi-nao-khong-nen-su-dung-framework)
+
 <!-- HASHNODE_BLOG:END -->
 
 ---
