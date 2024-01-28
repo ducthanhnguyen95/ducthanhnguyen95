@@ -18,6 +18,6 @@ jobs:
         with:
           HASHNODE_PUBLICATION_NAME: 'ducthanhnguyen95.hashnode.dev'
           POST_COUNT: 5
-          FORMAT: 'list'
+          FORMAT: 'card'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
