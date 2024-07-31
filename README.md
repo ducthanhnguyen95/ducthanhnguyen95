@@ -7,7 +7,7 @@
 
 ## I'm a software developer with growth mindset!!
 
-- 🔭 Currently I work for [Military Bank][militarybank]!
+- 🔭 Currently I work for [Techcombank][techcombank]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Golang
@@ -71,7 +71,7 @@ Bạn đã xây dựng 1 API tuyệt vời nhưng nó không nhanh như ...</td>
 
 </details>
 
-[militarybank]: https://www.mbbank.com.vn/
+[techcombank]: https://techcombank.com/
 [java]: https://www.java.com/en/
 [javascript]: https://www.javascript.com/
 [c++]: https://www.cprogramming.com/
