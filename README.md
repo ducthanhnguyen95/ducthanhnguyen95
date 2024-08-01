@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Golang
-- ⚡ Fun fact: I love to football and play game CS:GO
+- ⚡ Fun fact: I love to football and play game LOL
 
 ### Connect with me:
 
