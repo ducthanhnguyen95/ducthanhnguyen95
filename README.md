@@ -64,8 +64,8 @@ Tất nhiên, bạn có thể không tin điều này. ...</td></tr><tr><td><img
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation/pull/3) in [ducthanhnguyen95/reenact-the-conflict-situation](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation)
-2. 🎉 Merged PR [#2](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation/pull/2) in [ducthanhnguyen95/reenact-the-conflict-situation](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation)
+1. 🎉 Merged PR [#7](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation/pull/7) in [ducthanhnguyen95/reenact-the-conflict-situation](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation)
+2. 💪 Opened PR [#7](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation/pull/7) in [ducthanhnguyen95/reenact-the-conflict-situation](https://github.com/ducthanhnguyen95/reenact-the-conflict-situation)
 <!--END_SECTION:activity-->
 
 </details>
