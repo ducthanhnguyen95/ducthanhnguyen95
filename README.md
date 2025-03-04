@@ -5,7 +5,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)][hashnode]
 
 
-## I'm a software developer with growth mindset!!
+## I'm a software developer with a growth mindset!!
 
 - 🔭 Currently I work for [Techcombank][techcombank]!
 - 🌱 I’m currently learning everything 🤣
